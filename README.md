@@ -1,2 +1,3 @@
 # arrow-functions
-Practice arrow function
+
+Practice arrow functions.
